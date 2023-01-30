@@ -14,6 +14,7 @@
 		D755FAF12987D16D00444001 /* Words_ScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D755FAF02987D16D00444001 /* Words_ScrambleTests.swift */; };
 		D755FAFB2987D16D00444001 /* Words_ScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D755FAFA2987D16D00444001 /* Words_ScrambleUITests.swift */; };
 		D755FAFD2987D16D00444001 /* Words_ScrambleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D755FAFC2987D16D00444001 /* Words_ScrambleUITestsLaunchTests.swift */; };
+		D782A3F02987DB3900935933 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D782A3EF2987DB3900935933 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		D755FAF62987D16D00444001 /* Words_ScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Words_ScrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D755FAFA2987D16D00444001 /* Words_ScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Words_ScrambleUITests.swift; sourceTree = "<group>"; };
 		D755FAFC2987D16D00444001 /* Words_ScrambleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Words_ScrambleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D782A3EF2987DB3900935933 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				D755FADF2987D16A00444001 /* Words_ScrambleApp.swift */,
 				D755FAE12987D16A00444001 /* ContentView.swift */,
 				D755FAE32987D16D00444001 /* Assets.xcassets */,
+				D782A3EF2987DB3900935933 /* start.txt */,
 				D755FAE52987D16D00444001 /* Preview Content */,
 			);
 			path = Words_Scramble;
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D755FAE72987D16D00444001 /* Preview Assets.xcassets in Resources */,
+				D782A3F02987DB3900935933 /* start.txt in Resources */,
 				D755FAE42987D16D00444001 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
